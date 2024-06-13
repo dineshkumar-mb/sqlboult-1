@@ -1,4 +1,5 @@
-[sqltask1-ans.docx](https://github.com/user-attachments/files/15818747/sqltask1-ans.docx)
+[sqltask1-ans.pdf](https://github.com/user-attachments/files/15820152/sqltask1-ans.pdf)
+
 Introduction to SQL
 Welcome to SQLBolt, a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
 
